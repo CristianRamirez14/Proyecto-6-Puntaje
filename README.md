@@ -1,1 +1,1 @@
-# Proyecto-6-Puntaje
+# Proyecto6
